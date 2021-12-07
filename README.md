@@ -1,4 +1,4 @@
-# Better-Discord-FREE-Nitro
+# Simply-Nitro
 This better discord plugin allows you to have nitro features such as: custom emotes, high quality screenshares, etc.
 
 # How to Install
